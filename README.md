@@ -1,4 +1,4 @@
-# Jetpack DataStore Features App
+# Jetpack DataStore Features Demo
 
 A comprehensive Android application demonstrating both **Preferences DataStore** with encryption and **Proto DataStore** with type-safe schemas, featuring MVVM architecture and Jetpack Compose UI.
 
